@@ -1,5 +1,5 @@
 # MinScaffold
-Python3 implementation of the Minimal Homological Scaffold
+Python3 implementation of the Minimal Homological Scaffold (Dey, Li, Wang: Efficient algorithms for computing a minimal homology basis - 2018)
 Marco Guerra, Alessandro De Gregorio - 2019
 
 
